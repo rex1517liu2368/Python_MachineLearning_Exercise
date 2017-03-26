@@ -1,2 +1,2 @@
-# Python_MachineLearning_Exercise
+# Python MachineLearning Exercise
 Exercises on machine learning with Python
