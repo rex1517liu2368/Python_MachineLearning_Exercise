@@ -8,4 +8,9 @@ As mentioned in "dataset info.txt", who provided this dataset wanted to figure o
 - SVM
 - Neural Network
 
+Some other model I want to explore later are:
+- Logistics Regression
+- Gaussian Naive Bayes
+- Random Forest
+
 Let's start.
