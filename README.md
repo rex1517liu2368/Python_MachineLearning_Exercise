@@ -1,4 +1,4 @@
-# Python MachineLearning Exercise
+# Python Machine Learning Exercise
 Exercises on machine learning with Python
 
 ### Updates:
